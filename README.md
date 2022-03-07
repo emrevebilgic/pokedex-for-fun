@@ -1,14 +1,10 @@
-# Getting Started with Create React App
+# Pokédex For Fun
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Pokédex using PokéAPI (https://pokeapi.co/) I made for a job interview. It's fun so maybe I'll keep building it in the future...
 
-### `npm start`
+The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Runs the app in the development mode.\
+### use `npm start` 
+
+Use `npm start` to run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
