@@ -6,7 +6,7 @@ import PokemonList from './components/PokemonList'
 function App() {
   return (
     <div>
-      <header className='App-header'>A Simple Pokédex</header>
+      <header className='App-header'>Simple Pokédex</header>
       <PokemonList/>
     </div>
   );
